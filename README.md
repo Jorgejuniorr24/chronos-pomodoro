@@ -27,15 +27,6 @@ Desenvolvida com **React**, **TypeScript** e **Vite**, com foco em usabilidade e
 
 ---
 
-## ✨ Funcionalidades
-
-* ⏳ Timer Pomodoro (25 min padrão)
-* 🔁 Controle de ciclos (foco / descanso)
-* ▶️ Iniciar, pausar e resetar o timer
-* ✅ Lista de tarefas integrada
-* 📱 Interface responsiva
-
----
 
 ## 🧠 Como Funciona a Técnica Pomodoro
 
